@@ -116,27 +116,6 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: weapon1_0
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 0
-        width: 64
-        height: 205
-      alignment: 9
-      pivot: {x: 0.48058105, y: 0.01701667}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b6867b72d4e963349865ecb796ee641a
-      internalID: -2184116205440239278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: weapon1_1
       rect:
         serializedVersion: 2
@@ -153,6 +132,27 @@ TextureImporter:
       bones: []
       spriteID: d1e959725f0257f419c19713d73c47e1
       internalID: 1521159911348530467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weapon1_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 72
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994228b642b2c544e91375b3a6adb6fa
+      internalID: -2184116205440239278
       vertices: []
       indices: 
       edges: []
