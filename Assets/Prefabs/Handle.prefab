@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3119795819562565551}
   - component: {fileID: 3119795819562565549}
   - component: {fileID: 246817668}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Handle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -130,7 +130,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3119795820515980864}
   - component: {fileID: 3119795820515980895}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Fire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -210,7 +210,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2372114777133323813}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: ShotPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -1,22 +1,19 @@
 fileFormatVersion: 2
-guid: ee171531c7a070d4c8401b7023320183
+guid: 6cf4bcbc07ccb434f9e3d9edc97c98b4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3718250251277295445
-    second: Summoner_0
+      213: 3183986302450874242
+    second: meleeEnemy_0
   - first:
-      213: -8140256616438677672
-    second: Summoner_1
+      213: 6510013841318429645
+    second: meleeEnemy_1
   - first:
-      213: -2431688199032919440
-    second: Summoner_2
+      213: 3094266847939905774
+    second: meleeEnemy_2
   - first:
-      213: -7617187978949116469
-    second: Summoner_3
-  - first:
-      213: -2683203287380908246
-    second: Summoner_4
+      213: -5464670338321466072
+    second: meleeEnemy_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -98,6 +95,30 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
     buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -121,110 +142,101 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Summoner_0
+      name: meleeEnemy_0
       rect:
         serializedVersion: 2
-        x: 54
-        y: 484
-        width: 582
-        height: 503
+        x: 92
+        y: 283
+        width: 596
+        height: 504
       alignment: 9
-      pivot: {x: 0.48027033, y: 0.10507123}
+      pivot: {x: 0.4984021, y: 0.027588738}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af786d954e383804897457ca5ccd1aca
-      internalID: -3718250251277295445
+      spriteID: ad61198efbc813e4fa4b5ed63175cc66
+      internalID: 3183986302450874242
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Summoner_1
+      name: meleeEnemy_1
       rect:
         serializedVersion: 2
-        x: 679
-        y: 476
-        width: 351
-        height: 462
+        x: 445
+        y: 78
+        width: 139
+        height: 166
       alignment: 9
-      pivot: {x: 0.025647111, y: 0.2564293}
+      pivot: {x: 0.47259325, y: 0.91881794}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bc516d662cea144eb1279dd10ac4f07
-      internalID: -8140256616438677672
+      spriteID: 91e5b8533bde02744927d1316cdaf315
+      internalID: 6510013841318429645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Summoner_2
+      name: meleeEnemy_2
       rect:
         serializedVersion: 2
-        x: 586
-        y: 67
-        width: 417
-        height: 365
+        x: 343
+        y: 94
+        width: 58
+        height: 132
       alignment: 9
-      pivot: {x: 0.48072445, y: 0.9530123}
+      pivot: {x: 0.69704413, y: 0.91125524}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd353b25c9e6e104d9628200a7bf5352
-      internalID: -2431688199032919440
+      spriteID: 67badea53b3b08f42bfc60300a57e113
+      internalID: 3094266847939905774
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Summoner_3
+      name: meleeEnemy_3
       rect:
         serializedVersion: 2
-        x: 223
-        y: 276
-        width: 199
-        height: 146
+        x: 185
+        y: 139
+        width: 134
+        height: 84
       alignment: 9
-      pivot: {x: 0.8750598, y: 0.8775098}
+      pivot: {x: 0.9548684, y: 0.7721084}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d72a128daf7d5674ba691ce0f5d5d13f
-      internalID: -7617187978949116469
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Summoner_4
-      rect:
-        serializedVersion: 2
-        x: 277
-        y: 68
-        width: 57
-        height: 156
-      alignment: 9
-      pivot: {x: 0.4597093, y: 0.94899887}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94ae905a0544e874d82190cce4c1f13b
-      internalID: -2683203287380908246
+      spriteID: bfe04884318b95c41975f45d13181f41
+      internalID: -5464670338321466072
       vertices: []
       indices: 
       edges: []
